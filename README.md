@@ -1,2 +1,3 @@
 # send_msg
-it sends msg with twillo
+Twilio yordamida ro'yhatdan o'tgan nomeringizga sms jo'natish boshlangich konfiguratsiyasi 
+
